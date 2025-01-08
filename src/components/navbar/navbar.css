@@ -1,0 +1,54 @@
+nav {
+    width: 90%;
+    margin: auto;
+}
+
+.outer-nav {
+    background-color: #2C3E50;
+    transition: all 0.5s;
+    z-index: 100;
+}
+
+nav .home-link {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+nav .home-link:hover {
+    color: #fff !important;
+}
+
+nav .my-nav-links {
+    color: white !important;
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 10px 15px !important;
+    border-radius: 7px;
+    margin: 0px 5px;
+}
+.home-link:active{
+    color: white;
+}
+.paddding20 {
+    padding: 20px;
+}
+
+.padding5 {
+    padding: 5px;
+}
+
+.nav-link:focus {
+    background-color: rgba(27, 188, 156, 1);
+
+}
+.navbar-brand{
+    color: white !important;
+}
+
+@media screen and (max-width: 500px) {
+    nav {
+        width: 100%;
+    }
+  }

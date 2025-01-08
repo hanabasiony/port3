@@ -1,0 +1,17 @@
+.about .white-line{
+    height: 4px;
+    background-color: white;
+    width: 85px;
+}
+.about{
+    height: 650px;
+    background-color: #1ABC9C;
+    color: white;
+    
+}
+.about h3{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}

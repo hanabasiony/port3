@@ -1,0 +1,29 @@
+.home {
+    background-color: #1ABC9C;
+    padding:70px 0px ;
+}
+
+.home .img-div img{
+    width: 250px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.home  h2{
+    color: white;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 20px 0px;
+}
+.home .icon-div i{
+    color: white;
+}
+.home .white-line{
+    height: 4px;
+    background-color: white;
+    width: 85px;
+}
+.home p{
+    color: white;
+    margin-top: 10px;
+}
