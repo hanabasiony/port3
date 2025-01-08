@@ -18,6 +18,7 @@ export default function Content() {
        
     }
     function onChangeInputAge(e){
+      
       console.log("changed")
        setTopAge(topAge ='-35px')
        if(e.nativeEvent.data == null){
